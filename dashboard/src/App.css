@@ -48,7 +48,7 @@ body::before {
 .app {
   width: 96%;
   max-width: 1800px;
-  margin: 0 auto;
+  margin: 0 auto !important;
   padding: 2rem 1rem;
 }
 
